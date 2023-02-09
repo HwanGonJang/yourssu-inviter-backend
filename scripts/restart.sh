@@ -1,5 +1,5 @@
 
-PROJECT_NAME=yourssu-inviter
+PROJECT_NAME=yourssu-inviter-backend
 DIRECTORY=/home/ubuntu/app
 
 echo "PID Check..."
