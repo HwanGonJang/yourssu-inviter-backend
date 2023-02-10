@@ -13,7 +13,7 @@ import org.springframework.security.web.SecurityFilterChain
 @EnableGlobalMethodSecurity(
     prePostEnabled = true,
 )
-class SecurityConfiguration() {
+class SecurityConfig() {
     @Bean
     fun filterChain(http: HttpSecurity): SecurityFilterChain {
         return http
