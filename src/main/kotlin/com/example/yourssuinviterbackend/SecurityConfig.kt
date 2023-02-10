@@ -1,4 +1,4 @@
-package com.example.yourssuinviterbackend.domain.auth.controller
+package com.example.yourssuinviterbackend
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

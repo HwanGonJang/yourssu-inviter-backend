@@ -90,13 +90,13 @@ class SwaggerConfiguration {
             )
             .info(
                 Info()
-                    .title("Spring Blog")
-                    .description("스프링 블로그 API 구현")
+                    .title("Yourssu Inviter")
+                    .description("헤벌레팀 API 문서:)")
                     .version("v0.0.0"),
             )
             .externalDocs(
                 ExternalDocumentation()
-                    .description("BLOG API"),
+                    .description("INVITER API"),
             )
     }
 }
